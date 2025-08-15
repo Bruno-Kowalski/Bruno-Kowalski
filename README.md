@@ -23,7 +23,25 @@
 
 ###
 
-<p align="left">Atualmente estou cursando Análise e Desenvolvimento de Sistemas no CEUB, gafanhoto do curso em vídeo. Apaixonado por tecnologia e viciado em café .<br>Em busca de aprendizados e novos desafios que me ajudem a crescer como profissional.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar minha experiência em processos de negócio no desenvolvimento de software.
+
+Background Profissional:
+Possuo sólida vivência nas áreas administrativa e financeira, com atuação em controle de estoque, fluxo de caixa, faturamento e gestão de contas a pagar e receber. Essa base me confere um entendimento prático dos desafios que a tecnologia pode solucionar.
+
+Foco Técnico e Habilidades:
+Atualmente, estou focado no desenvolvimento de competências técnicas para criar soluções robustas e eficientes. Minhas principais ferramentas são:
+
+Desenvolvimento Back-End: Java
+
+Desenvolvimento Front-End: JavaScript, HTML5, CSS3
+
+Banco de Dados: MySQL
+
+Análise de Dados e BI: Power BI
+
+Controle de Versão: Git, GitHub
+
+Busco oportunidades para atuar na área de tecnologia, contribuindo com uma perspectiva que une a visão de negócio à capacidade técnica..</p>
 
 ###
 
