@@ -68,3 +68,14 @@ Skills:<br>
 </div>
 
 ###
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=bruno-kowalski&theme=gotham&hide_border=false" 
+    height="160" 
+    alt="GitHub Streak Stats"
+  />
+</div>
+
+###
+
