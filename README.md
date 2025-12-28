@@ -81,3 +81,20 @@ React, Next.js, Vue.js, bancos de dados MySQL e SQL Server, sempre aliado a boas
 
 
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kowalski&layout=donut&theme=gotham"
+    height="180"
+  />
+</div>
+
+
+
+
+
+
+
+
+
+
+
