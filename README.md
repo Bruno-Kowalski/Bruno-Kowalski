@@ -74,11 +74,15 @@ arquitetura e metodologias ágeis.
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=bruno-kowalski&theme=gotham"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruno-kowalski&theme=gotham"
+    width="300"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kowalski&layout=compact&theme=gotham"
-    height="180"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruno-kowalski&theme=gotham"
+    width="300"
   />
 </div>
+
+
+
+
