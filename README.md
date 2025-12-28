@@ -71,25 +71,13 @@ React, Next.js, Vue.js, bancos de dados MySQL e SQL Server, sempre aliado a boas
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=bruno-kowalski&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=false" 
-    height="130" 
-    alt="stats graph"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-kowalski&layout=compact&langs_count=5&theme=gotham&hide_border=false" 
-    height="130" 
-    alt="languages graph"
-  />
-</div>
-
-###
-
-<div align="center">
-  <img 
     src="https://streak-stats.demolab.com?user=bruno-kowalski&theme=gotham&hide_border=false" 
-    height="160" 
+    height="180"
     alt="GitHub Streak Stats"
   />
 </div>
 
-###
+
+
+
+
