@@ -19,29 +19,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  Futuro DBA</h3>
+<h3 align="left">👩‍💻  Desenvolvedor Back-end </h3>
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar minha experiência em processos de negócio no desenvolvimento de software.
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em suporte técnico e processos administrativos. Experiência com desenvolvimento Front-End e Back-End, atuo na criação de interfaces intuitivas e soluções completas, com foco em usabilidade, performance e qualidade de código. Busco oportunidades de estágio ou posição júnior para contribuir no desenvolvimento de aplicações responsivas e eficientes, aplicando conhecimentos em Java, Go, Node.js, React, Next.js, Vue.js, bancos de dados MySQL e SQL Server, sempre aliado a boas práticas de versionamento e metodologias ágeis.
 
-Background Profissional:
-Possuo sólida vivência nas áreas administrativa e financeira, com atuação em controle de estoque, fluxo de caixa, faturamento e gestão de contas a pagar e receber. Essa base me confere um entendimento prático dos desafios que a tecnologia pode solucionar.
-
-Foco Técnico e Habilidades:
-Atualmente, estou focado no desenvolvimento de competências técnicas para criar soluções robustas e eficientes. Minhas principais ferramentas são:
-
-Desenvolvimento Back-End: Java
-
-Desenvolvimento Front-End: JavaScript, HTML5, CSS3
-
-Banco de Dados: MySQL
-
-Análise de Dados e BI: Power BI
-
-Controle de Versão: Git, GitHub
-
-Busco oportunidades para atuar na área de tecnologia, contribuindo com uma perspectiva que une a visão de negócio à capacidade técnica..</p>
+Skills:<br>
+ • Back-end: Java (Spring), Node.js <br>
+ • Front-end: React, Next.js, Vue.js <br>
+ • Banco de dados:SQL Server, MySQL, MongoDB<br>
+ • Testes: JUnit, Mockito, WicketTester<br>
+ • Outras skills: Docker, Supabase, Git, APIs REST</p>
 
 ###
 
