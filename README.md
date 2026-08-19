@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello, World! I'm Bruno Santos! 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Bruno Santos!</h1>
 
 ###
 
@@ -24,22 +24,22 @@
 ###
 
 <p align="left">
-Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, com experiência prática em suporte técnico, rotinas administrativas
-e desenvolvimento de software. Atuo tanto no <b>Front-end</b> quanto no <b>Back-end</b>, desenvolvendo aplicações completas,
-interfaces intuitivas e APIs bem estruturadas, sempre com foco em <b>usabilidade, performance e qualidade de código</b>.
+Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end e construção de aplicações web.
 
-Busco oportunidades de <b>estágio ou posição júnior</b> para aplicar meus conhecimentos em projetos reais, colaborar com equipes
-de desenvolvimento e evoluir continuamente como profissional de tecnologia, seguindo boas práticas de versionamento,
-arquitetura e metodologias ágeis.
-</p>
+Atualmente desenvolvo projetos utilizando Java, Spring Boot, APIs REST e bancos de dados relacionais, aplicando conceitos de orientação a objetos, arquitetura em camadas, autenticação com JWT, testes automatizados e versionamento com Git.
 
-<p align="left">
-<b>Skills:</b><br>
-• <b>Back-end:</b> Java (Spring), Node.js <br>
-• <b>Front-end:</b> React, Next.js, Vue.js <br>
-• <b>Bancos de dados:</b> SQL Server, MySQL, MongoDB <br>
-• <b>Testes:</b> JUnit, Mockito, WicketTester <br>
-• <b>Outras:</b> Docker, Supabase, Git, APIs REST
+Também possuo experiência com React e JavaScript, o que me permite compreender o desenvolvimento de aplicações de ponta a ponta e a integração entre front-end e back-end.
+
+🚀 Principais tecnologias
+
+Back-end: Java 21, Spring Boot, Spring Data JPA, Spring Security, Node.js
+Front-end: React, JavaScript, HTML e CSS
+Banco de dados: PostgreSQL, MySQL, SQL Server e MongoDB
+Testes e CI: JUnit 5, Mockito, GitHub Actions
+Ferramentas: Git, GitHub, Docker, Postman e Swagger
+APIs: REST, JWT e integrações com serviços externos
+
+📌 Atualmente estou buscando oportunidades de estágio ou desenvolvedor Java Júnior, onde possa contribuir em projetos reais e continuar evoluindo como desenvolvedor back-end.
 </p>
 
 ###
